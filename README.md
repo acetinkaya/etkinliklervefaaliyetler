@@ -9,5 +9,5 @@ Eğitmen
 
 ---
 
-📢 İstanbul Kalkınma 
+📢 İstanbul Kalkınma Ajansı 
 
