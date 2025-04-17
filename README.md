@@ -9,5 +9,6 @@ Eğitmen
 
 ---
 
-📢 İstanbul Kalkınma Ajansı 
+📢 İstanbul Kalkınma Ajansı (ISTKA)    
+
 
