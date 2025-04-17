@@ -9,5 +9,5 @@ Eğitmen
 
 ---
 
-📢 İstanbul 
+📢 İstanbul Kalkınma 
 
