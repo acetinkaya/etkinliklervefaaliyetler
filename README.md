@@ -7,3 +7,5 @@ Kariyer Gelişimi Akademileri | Üretken Yapay Zeka Eğitimi
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/iguliseyz.jpeg)
 
 ---
+
+https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/YZ_calistay%C4%B1.jpg
