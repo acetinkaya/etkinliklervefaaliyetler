@@ -10,5 +10,4 @@ Eğitmen
 ---
 
 📢 İstanbul Kalkınma Ajansı (ISTKA)    
-
-
+Yapay Zeka 
