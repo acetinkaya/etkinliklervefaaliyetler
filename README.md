@@ -12,4 +12,6 @@ Eğitmen
 📢 İstanbul Kalkınma Ajansı (ISTKA)    
 Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı 
 🗓️ Tarih: 21 Ocak 2025 
+Katılımcı
+
 
