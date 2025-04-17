@@ -10,5 +10,5 @@ Eğitmen
 ---
 
 📢 İstanbul Kalkınma Ajansı (ISTKA)    
-Yapay Zeka Teknolojileri Mali Destek Programı 
+Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı 
 
