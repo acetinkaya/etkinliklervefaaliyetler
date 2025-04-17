@@ -14,4 +14,4 @@ Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı
 🗓️ Tarih: 21 Ocak 2025 
 Katılımcı
 
-
+![alternatif metin](https:
