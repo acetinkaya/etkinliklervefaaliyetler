@@ -22,4 +22,6 @@ Katılımcı
 İstanbul Gelişim Üniversitesi (İGÜ) bünyesinde ISTKA destekleriyle hayata geçirilen İGÜ Siber Akademi Projesi, yapay zekâ, programlama ve siber güvenlik alanlarında sektöre donanımlı bireyler yetiştirmiştir. 
 🗓️ Tarih Aralığı: 05-08-2024 / 28-12-2024 
 
+Eğitmen - Veri Yapıları ve Algoritmalar
+Eğitmen - Yapay Zeka 
 
