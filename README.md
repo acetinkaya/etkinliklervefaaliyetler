@@ -18,7 +18,6 @@ Katılımcı
 
 ---
 
-📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli IGU Siber 
-Katılımcı   
+📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli IGU Siber Akademi Projesi    
+İstanbul Gelişim Üniversitesi (İGÜ) bünyesinde ISTKA destekleriyle hayata geçirilen İGÜ Siber Akademi Projesi, yapay zekâ, programlama ve siber güvenlik alanlarında sektöre donanımlı bireyler yetiştirmiştir. 
 
-https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png
