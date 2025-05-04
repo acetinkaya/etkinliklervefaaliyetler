@@ -18,5 +18,5 @@ Katılımcı
 
 ---
 
-
+📢 İstanbul 
 https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png
