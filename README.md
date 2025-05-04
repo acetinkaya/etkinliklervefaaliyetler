@@ -18,6 +18,7 @@ Katılımcı
 
 ---
 
-📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli 
+📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli IGU Siber 
+Katılımcı   
 
 https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png
