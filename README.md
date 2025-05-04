@@ -17,3 +17,6 @@ Katılımcı
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/YZ_calistay%C4%B1.jpg)
 
 ---
+
+
+https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png
