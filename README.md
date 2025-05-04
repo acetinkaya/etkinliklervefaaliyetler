@@ -25,3 +25,4 @@ Katılımcı
 Eğitmen - Veri Yapıları ve Algoritmalar
 Eğitmen - Yapay Zeka 
 
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)
