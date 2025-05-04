@@ -18,6 +18,6 @@ Katılımcı
 
 ---
 
-📢 İstanbul Kalkınma Ajansı 
+📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli 
 
 https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png
