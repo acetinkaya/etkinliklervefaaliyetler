@@ -2,6 +2,8 @@
 
 📢 Dijital Sanat Festivali İstanbul 2025 - IDAF’25    
 Üretken YZ Atölye Eğitimi | Algoritmadan İlham’a:  Üretken Yapay Zekanın Sanatsal Kodları   
+📅 Tarih & Saat:   
+🔹 13 Haziran 2025 
 
 ---
 
