@@ -1,7 +1,7 @@
 # Etkinlikler ve Faaliyetler   
 
 📢 Dijital Sanat Festivali İstanbul 2025 - IDAF’25    
-
+Üretken YZ Atölye Eğitimi 
 
 ---
 
