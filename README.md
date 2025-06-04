@@ -1,4 +1,8 @@
-# Etkinlikler ve Faaliyetler
+# Etkinlikler ve Faaliyetler   
+
+📢 Dijital Sanat Festivali İstanbul 2025 
+
+---
 
 📢 İstanbul Gelişim Üniversitesi (İGÜ)    
 Kariyer Gelişimi Akademileri | Üretken Yapay Zeka Eğitimi    
