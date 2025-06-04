@@ -7,7 +7,7 @@
 🔹 15 Haziran 2025 – 11:00 & 16:00   
 Eğitmen   
 
-
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/IDAF25_atolye_1.png)  
 
 ---
 
