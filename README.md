@@ -8,6 +8,7 @@
 Eğitmen   
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/IDAF25_atolye_1.png)  
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/IDAF25_atolye_3.png)  
 
 ---
 
