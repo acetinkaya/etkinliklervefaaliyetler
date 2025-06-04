@@ -1,6 +1,7 @@
 # Etkinlikler ve Faaliyetler   
 
-📢 Dijital Sanat Festivali İstanbul 2025 
+📢 Dijital Sanat Festivali İstanbul 2025 - IDAF’25    
+
 
 ---
 
