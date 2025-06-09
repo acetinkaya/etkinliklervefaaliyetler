@@ -5,7 +5,7 @@
 📅 Tarih & Saat:   
 🔹 13 Haziran 2025 – 11:00 & 16:00   
 🔹 15 Haziran 2025 – 11:00 & 16:00   
-Eğitmen   
+* Eğitmen   
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/IDAF25_atolye_1.png)  
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/IDAF25_atolye_3.png)  
@@ -15,7 +15,7 @@ Eğitmen
 📢 İstanbul Gelişim Üniversitesi (İGÜ)    
 Kariyer Gelişimi Akademileri | Üretken Yapay Zeka Eğitimi    
 🗓️ Tarih: 28 Mart 2025    
-Eğitmen
+* Eğitmen
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/iguliseyz.jpeg)
 
@@ -24,7 +24,7 @@ Eğitmen
 📢 İstanbul Kalkınma Ajansı (ISTKA)      
 Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı    
 🗓️ Tarih: 21 Ocak 2025     
-Katılımcı    
+* Katılımcı    
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/YZ_calistay%C4%B1.jpg)
 
