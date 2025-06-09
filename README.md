@@ -53,6 +53,7 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 📢 18. MÜSİAD EXPO Fuarı       
 * ARGE Mühendisi - TUSİ     
 🗓️ Tarih Aralığı: 21 – 24 Kasım 2020    
+[Fuar Haber Sayfası - 1](https://gelisim.edu.tr/tr/gelisim-haber-cumhurbaskani-erdogan-ucan-araba-tusiyi-inceledi)    
      
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)       
 
