@@ -48,3 +48,5 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 * Eğitmen - Yapay Zeka    
 
 ---
+
+
