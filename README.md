@@ -32,32 +32,32 @@ Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı
 
 📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli IGU Siber Akademi Projesi       
 İstanbul Gelişim Üniversitesi (İGÜ) bünyesinde ISTKA destekleriyle hayata geçirilen İGÜ Siber Akademi Projesi, yapay zekâ, programlama ve siber güvenlik alanlarında sektöre donanımlı bireyler yetiştirmiştir.     
-🗓️ Tarih Aralığı: 05-08-2024 / 28-12-2024     
-* Eğitmen - Veri Yapıları ve Algoritmalar   
-* Eğitmen - Yapay Zeka    
+🗓️ Tarih Aralığı: 05-08-2024 / 28-12-2024       
+* Eğitmen - Veri Yapıları ve Algoritmalar     
+* Eğitmen - Yapay Zeka      
 
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)     
-
-Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)       
+   
+Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)    
 
 ---
 
 📢 Avcılar'da Yapay Zeka Günleri    
 Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı 
-* Eğitmen - Yapay Zeka       
-🗓️ Tarih Aralığı: 27.07.2024   
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)   
+* Eğitmen - Yapay Zeka         
+🗓️ Tarih Aralığı: 27.07.2024      
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)       
 
 ---
 
-📢 18. MÜSİAD EXPO Fuarı    
-* ARGE Mühendisi - TUSİ
-21 – 24 Kasım 2020, 
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)    
+📢 18. MÜSİAD EXPO Fuarı       
+* ARGE Mühendisi - TUSİ   
+21 – 24 Kasım 2020    
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)       
 
 ---
 
-📢 18. MÜSİAD EXPO Fuarı    
+📢 18. MÜSİAD EXPO Fuarı      
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tto-tanitim.jpg)
 
