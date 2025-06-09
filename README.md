@@ -33,7 +33,6 @@ Katılımcı
 📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli IGU Siber Akademi Projesi       
 İstanbul Gelişim Üniversitesi (İGÜ) bünyesinde ISTKA destekleriyle hayata geçirilen İGÜ Siber Akademi Projesi, yapay zekâ, programlama ve siber güvenlik alanlarında sektöre donanımlı bireyler yetiştirmiştir.     
 🗓️ Tarih Aralığı: 05-08-2024 / 28-12-2024     
-
 * Eğitmen - Veri Yapıları ve Algoritmalar   
 * Eğitmen - Yapay Zeka    
 
@@ -43,6 +42,9 @@ Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/i
 
 ---
 
-📢 Avcılar'da Yapay Zeka Günleri      
-Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı uygulamalar gerçekleştirilmiştir.    
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)   
+📢 Avcılar'da Yapay Zeka Günleri    
+Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı 
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)
+* Eğitmen - Yapay Zeka    
+
+---
