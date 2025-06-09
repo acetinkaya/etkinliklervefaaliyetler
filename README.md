@@ -43,6 +43,6 @@ Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/i
 
 ---
 
-📢 Avcılar'da Yapay Zeka 
+📢 Avcılar'da Yapay Zeka Günleri
 
 
