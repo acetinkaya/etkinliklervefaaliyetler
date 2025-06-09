@@ -54,8 +54,11 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 
 21 – 24 Kasım 2020, 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)    
+* ARGE Mühendisi - TUSİ
 
 ---
+
+📢 18. MÜSİAD EXPO Fuarı    
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tto-tanitim.jpg)
 
