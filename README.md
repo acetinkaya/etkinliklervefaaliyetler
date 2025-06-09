@@ -43,6 +43,6 @@ Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/i
 
 ---
 
-📢 Avcılar'da Yapay Zeka Günleri    
-Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı 
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)
+📢 Avcılar'da Yapay Zeka Günleri      
+Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı uygulamalar gerçekleştirilmiştir.    
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)   
