@@ -49,4 +49,9 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tto-tanitim.jpg)
+
+---
+
+
 
