@@ -33,35 +33,33 @@ Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı
 📢 İstanbul Kalkınma Ajansı (ISTKA) Destekli IGU Siber Akademi Projesi       
 İstanbul Gelişim Üniversitesi (İGÜ) bünyesinde ISTKA destekleriyle hayata geçirilen İGÜ Siber Akademi Projesi, yapay zekâ, programlama ve siber güvenlik alanlarında sektöre donanımlı bireyler yetiştirmiştir.     
 🗓️ Tarih Aralığı: 05-08-2024 / 28-12-2024       
-* Eğitmen - Veri Yapıları ve Algoritmalar     
-* Eğitmen - Yapay Zeka      
-Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)    
+* Eğitmen - Veri Yapıları ve Algoritmalar       
+* Eğitmen - Yapay Zeka        
+Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)      
 
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)       
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)         
    
 ---
 
 📢 Avcılar'da Yapay Zeka Günleri    
 Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı 
 * Eğitmen - Yapay Zeka         
-🗓️ Tarih Aralığı: 27.07.2024
+🗓️ Tarih Aralığı: 27.07.2024     
       
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)       
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)        
 
 ---
 
 📢 18. MÜSİAD EXPO Fuarı       
-* ARGE Mühendisi - TUSİ   
-🗓️ Tarih Aralığı: 21 – 24 Kasım 2020
-  
+* ARGE Mühendisi - TUSİ
+🗓️ Tarih Aralığı: 21 – 24 Kasım 2020    
+     
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)       
 
 ---
 
-📢 İGÜ Online Tanıtım Günleri   
-* Bilgisayar Yüksek Mühendisi - Etkinlik Moderatörü
-🗓️ Tarih: 4 Ağustos 2020
-
+📢 İGÜ Online Tanıtım Günleri         
+* Bilgisayar Yüksek Mühendisi - Etkinlik Moderatörü      
+🗓️ Tarih: 4 Ağustos 2020      
+   
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tto-tanitim.jpg)
-
-
