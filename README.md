@@ -51,7 +51,7 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 ---
 
 📢 Air Taxi World Congress Istanbul - September 2022      
-
+* ARGE Mühendisi - TUSİ     
      
 
 ---
