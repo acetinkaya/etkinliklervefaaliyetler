@@ -40,3 +40,9 @@ Katılımcı
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)     
 
 Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)
+
+---
+
+📢 Avcılar'da 
+
+
