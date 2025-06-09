@@ -44,5 +44,5 @@ Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/i
 ---
 
 📢 Avcılar'da Yapay Zeka Günleri    
-Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde 
+Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)
