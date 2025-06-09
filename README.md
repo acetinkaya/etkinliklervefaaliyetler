@@ -44,5 +44,5 @@ Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/i
 ---
 
 📢 Avcılar'da Yapay Zeka Günleri
-
+Avcılar 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)
