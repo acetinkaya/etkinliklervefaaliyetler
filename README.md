@@ -50,6 +50,13 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 
 ---
 
+📢 Air Taxi World Congress Istanbul - September 2022      
+
+     
+
+---
+
+
 📢 18. MÜSİAD EXPO Fuarı       
 * ARGE Mühendisi - TUSİ     
 🗓️ Tarih Aralığı: 21 – 24 Kasım 2020    
