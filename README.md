@@ -60,6 +60,10 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
   
 ---
 
+📢 2022 İGÜ Lise Yaz Akademisi 
+
+
+---
 
 📢 18. MÜSİAD EXPO Fuarı       
 * ARGE Mühendisi - TUSİ     
