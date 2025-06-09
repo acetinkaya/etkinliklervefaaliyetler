@@ -63,7 +63,8 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 📢 2022 İGÜ Lise Yaz Akademisi    
 İstanbul Gelişim Üniversitesi, lise öğrencilerine özel Lise Yaz Akademisi 20-24 Haziran 2022 tarihleri arasında düzenlenmiştir.    
 * Eğitmen - Robotik Teknolojisi  ve Programlama Dilleri Atölyesi          
-
+🗓️ Tarih Aralığı: 20 – 24 Haziran 2022
+      
 
 ---
 
