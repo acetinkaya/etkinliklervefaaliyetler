@@ -54,10 +54,10 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 * ARGE Mühendisi - TUSİ        
 🗓️ Tarih Aralığı: 13 – 15 September 2022
 
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi1.jpg)
-![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi3.jpg)
-
-
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi1.jpg)    
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi3.jpg)    
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi2.jpg)    
+  
 ---
 
 
