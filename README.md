@@ -44,14 +44,14 @@ Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/i
 📢 Avcılar'da Yapay Zeka Günleri    
 Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı 
 * Eğitmen - Yapay Zeka         
-🗓️ Tarih Aralığı: 27.07.2024     
+🗓️ Tarih: 27.07.2024     
       
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)        
 
 ---
 
 📢 18. MÜSİAD EXPO Fuarı       
-* ARGE Mühendisi - TUSİ
+* ARGE Mühendisi - TUSİ     
 🗓️ Tarih Aralığı: 21 – 24 Kasım 2020    
      
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)       
@@ -59,7 +59,7 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 ---
 
 📢 İGÜ Online Tanıtım Günleri         
-* Bilgisayar Yüksek Mühendisi - Etkinlik Moderatörü      
+* Bilgisayar Yüksek Mühendisi - Etkinlik Moderatörü   
 🗓️ Tarih: 4 Ağustos 2020      
    
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tto-tanitim.jpg)
