@@ -61,7 +61,7 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 ---
 
 📢 2022 İGÜ Lise Yaz Akademisi 
-İstanbul Gelişim Üniversitesi,
+İstanbul Gelişim Üniversitesi, lise öğrencilerine özel Lise Yaz Akademisi
 
 ---
 
