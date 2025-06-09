@@ -51,8 +51,10 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 ---
 
 📢 Air Taxi World Congress Istanbul - September 2022      
-* ARGE Mühendisi - TUSİ       
-🗓️ Tarih Aralığı: 13 – 15 September 2022    
+* ARGE Mühendisi - TUSİ        
+🗓️ Tarih Aralığı: 13 – 15 September 2022
+
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi1.jpg)
      
 
 ---
