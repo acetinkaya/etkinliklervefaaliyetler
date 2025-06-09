@@ -35,31 +35,33 @@ Yapay Zeka Teknolojileri Mali Destek Programı Toplantısı
 🗓️ Tarih Aralığı: 05-08-2024 / 28-12-2024       
 * Eğitmen - Veri Yapıları ve Algoritmalar     
 * Eğitmen - Yapay Zeka      
+Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)    
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/istka.png)       
    
-Eğitim İçeriği: [IGU Siber Akademi](https://siberakademi.gelisim.edu.tr/tr/idari-icerik-mufredatimiz)    
-
 ---
 
 📢 Avcılar'da Yapay Zeka Günleri    
 Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleştilen etkinlikte "Açık Veri Setleri" üzerindeki verilerinin yapay zeka tabanlı algoritmalar ile bütünleştirerek gerçek zamanlı 
 * Eğitmen - Yapay Zeka         
-🗓️ Tarih Aralığı: 27.07.2024      
+🗓️ Tarih Aralığı: 27.07.2024
+      
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/avcilaryz.jpg)       
 
 ---
 
 📢 18. MÜSİAD EXPO Fuarı       
 * ARGE Mühendisi - TUSİ   
-🗓️ Tarih Aralığı: 21 – 24 Kasım 2020    
+🗓️ Tarih Aralığı: 21 – 24 Kasım 2020
+  
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tusi-fuar.jpg)       
 
 ---
 
 📢 İGÜ Online Tanıtım Günleri   
 * Bilgisayar Yüksek Mühendisi - Etkinlik Moderatörü
-🗓️ Tarih: 4 Ağustos 2020    
+🗓️ Tarih: 4 Ağustos 2020
+
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/tto-tanitim.jpg)
 
 
