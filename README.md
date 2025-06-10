@@ -67,7 +67,8 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/haber1.jpg)
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/haber2.jpg)
- 
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/haber3.jpg)
+
 ---
 
 📢 2022 İGÜ Lise Kış ve Yaz Akademisi      
