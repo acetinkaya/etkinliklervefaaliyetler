@@ -61,6 +61,14 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
   
 ---
 
+📢 TUSİ Açık Alan Denemeleri    
+* ARGE Mühendisi - TUSİ        
+🗓️ Tarih Aralığı: Haziran – Temmuz 2022
+
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/airtaxi1.jpg)    
+ 
+---
+
 📢 2022 İGÜ Lise Kış ve Yaz Akademisi      
 İstanbul Gelişim Üniversitesi, lise öğrencilerine özel Lise Kış Akademisi 27.01.2022 - 03.02.2022 tarihlerinde ve Lise Yaz Akademisi 20-24 Haziran 2022 tarihleri arasında gerçekleştirilmiştir.      
 * Eğitmen - Robotik Teknolojisi  ve Programlama Dilleri Atölyesi             
