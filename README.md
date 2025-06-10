@@ -66,7 +66,7 @@ Avcılar Belediyesi Uygulamalı Çözüm ve İnovasyon Merkezi'nde gerçekleşti
 🗓️ Tarih Aralığı: Haziran – Temmuz 2022
 
 ![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/haber1.jpg)
-
+![alternatif metin](https://github.com/acetinkaya/etkinliklervefaaliyetler/blob/main/haber2.jpg)
  
 ---
 
